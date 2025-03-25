@@ -25,7 +25,7 @@ Un reproductor de música simulado desarrollado en **Python**. La aplicación ut
 - **Interfaz del Reproductor:**  
   - **Panel Izquierdo:** Muestra la portada, título, artista, álbum y una barra de progreso interactiva.
   - **Panel Derecho:** Muestra la lista de canciones con controles para seleccionar, reordenar y eliminar ítems.
-  - Se muestran mensajes en consola para acciones clave (selección, navegación, mute, play/pause, etc.), lo que facilita la depuración.
+  - Se muestran mensajes en la consola para acciones clave (selección, navegación, mute, play/pause, etc.), Aunnque algunos no tienen logica solo imprimen el mensaje en la consola.
 
 ## Uso del Módulo os
 
