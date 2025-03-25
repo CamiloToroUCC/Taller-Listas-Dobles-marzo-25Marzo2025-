@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Mp3 Player es un reproductor de música simulado desarrollado en **Python**. La aplicación utiliza **Tkinter** para la interfaz gráfica y **Pillow (PIL)** para el manejo y redimensionamiento de imágenes. La lógica central se basa en una implementación personalizada de una **lista doblemente enlazada**, que gestiona dinámicamente la playlist de canciones.
+Un reproductor de música simulado desarrollado en **Python**. La aplicación utiliza **Tkinter** para la interfaz gráfica y **Pillow (PIL)** para el manejo y redimensionamiento de imágenes. La lógica central se basa en una implementación personalizada de una **lista doblemente enlazada**, que gestiona dinámicamente la playlist de canciones.
 
 ## Tecnologías y Herramientas
 
@@ -11,7 +11,6 @@ Mp3 Player es un reproductor de música simulado desarrollado en **Python**. La 
 - **Librerías:**
   - [Pillow (PIL)](https://python-pillow.org/) – para cargar y redimensionar imágenes.
   - **os** – para gestionar rutas y directorios (por ejemplo, para obtener la ruta actual y construir la ruta a la carpeta de imágenes).
-- **Control de Versiones:** Git y GitHub
 
 ## Estructura del Proyecto
 
