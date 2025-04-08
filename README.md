@@ -38,7 +38,3 @@ Esto asegura que los recursos gráficos se carguen correctamente en cualquier en
 ## Cómo Ejecutar el Proyecto
 
 1. **Clonar el Repositorio:**
-
-   ```bash
-   git clone https://github.com/tu_usuario/proyecto_mp3_player.git
-   cd proyecto_mp3_player
